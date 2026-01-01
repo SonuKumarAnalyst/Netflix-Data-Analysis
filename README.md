@@ -146,6 +146,6 @@ All plots are saved in the `plots/` folder.
 **Sonu Kumar**  
 VOIS for Tech Program on Conversational Data Analytics with LLMs
 
-- GitHub: [SonuKumar7065](https://github.com/SonuKumar7065) 
+- GitHub: [SonuKumarAnalyst](https://github.com/SonuKumarAnalyst) 
 - Contact: sonukumarsk5168@gmail.com
 
