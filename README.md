@@ -123,8 +123,6 @@ All plots are saved in the `plots/` folder.
    python Netflix_Data_Analysis.ipynb
 
 ## 📂 Folder Structure
-- Content Available
-    ```bash
     Netflix-Data-Analysis/
     │
     ├── Netflix_Data_Analysis.ipynb   # Main analysis script
